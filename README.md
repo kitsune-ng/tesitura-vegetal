@@ -1,2 +1,2 @@
 # tesitura-vegetal
-An interactive fiction
+A tiny piece of interactive fiction
